@@ -19,3 +19,10 @@ Screen shots of each year of the larger dataset have been provided for 2018, 201
 ![image](https://github.com/Christ1129/VBA-challenge/blob/main/VBAStock2020.png)
 
 ![image](https://github.com/Christ1129/VBA-challenge/blob/main/VBAStocks2018.png)
+
+
+<hr>
+Contact : 
+
+* tourteau.christian@gmail.com
+* https://www.linkedin.com/in/christian-tourteau/
